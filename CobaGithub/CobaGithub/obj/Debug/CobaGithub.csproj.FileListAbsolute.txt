@@ -1,0 +1,7 @@
+C:\Users\Asus\Source\Repos\Lynanisa\ProjectCoba\CobaGithub\CobaGithub\bin\Debug\CobaGithub.exe.config
+C:\Users\Asus\Source\Repos\Lynanisa\ProjectCoba\CobaGithub\CobaGithub\bin\Debug\CobaGithub.exe
+C:\Users\Asus\Source\Repos\Lynanisa\ProjectCoba\CobaGithub\CobaGithub\bin\Debug\CobaGithub.pdb
+C:\Users\Asus\Source\Repos\Lynanisa\ProjectCoba\CobaGithub\CobaGithub\obj\Debug\CobaGithub.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\Lynanisa\ProjectCoba\CobaGithub\CobaGithub\obj\Debug\CobaGithub.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\Lynanisa\ProjectCoba\CobaGithub\CobaGithub\obj\Debug\CobaGithub.exe
+C:\Users\Asus\Source\Repos\Lynanisa\ProjectCoba\CobaGithub\CobaGithub\obj\Debug\CobaGithub.pdb
