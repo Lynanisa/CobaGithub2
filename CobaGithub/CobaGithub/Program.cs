@@ -11,6 +11,7 @@ namespace CobaGithub
         static void Main(string[] args)
         {
             Console.WriteLine("Lynatu");
+            Console.WriteLine("Alin");
         }
     }
 }
